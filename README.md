@@ -6,7 +6,9 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![GitHub issues](https://img.shields.io/github/issues/wilderPariona/sumDigitsRecursive?style=flat-square)](https://github.com/wilderPariona/sumDigitsRecursive/issues)
+[![GitHub forks](https://img.shields.io/github/forks/wilderPariona/sumDigitsRecursive?style=flat-square)](https://github.com/wilderPariona/sumDigitsRecursive/network)
+[![GitHub stars](https://img.shields.io/github/stars/wilderPariona/sumDigitsRecursive?style=flat-square)](https://github.com/wilderPariona/sumDigitsRecursive/stargazers)
 
 <h3 align="center">🏤 Métodos Recursivos</h3>
 <p align="center">Práctica</p>
